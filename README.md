@@ -1,2 +1,2 @@
 # Home-work-VCS
-Hello, world
+Hello, world!
